@@ -1,0 +1,13 @@
+TERRA INFINITA - mod Forge 1.20.1
+
+COMO USAR NO JOGO
+- Receita: 8 blocos de terra em volta + 1 diamante no meio (mesa de trabalho).
+- Plante qualquer semente em cima da Terra Infinita (vanilla ou Mystical Agriculture).
+  A planta cresce na hora.
+- Coloque um HOPPER (ou bau) embaixo da Terra Infinita: ela passa a jogar nele,
+  infinitamente, os itens que a planta madura daria (sem colher, sem esperar).
+- Config: config/terrainfinita-common.toml
+    intervaloTicks = 20   (20 ticks = 1 segundo)
+    crescimentoInstantaneo = true
+
+COMO COMPILAR: mesmo caminho do outro mod (GitHub Actions). Veja a explicacao no chat.

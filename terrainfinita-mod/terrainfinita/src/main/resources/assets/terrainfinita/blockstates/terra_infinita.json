@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "terrainfinita:block/terra_infinita"
+    },
+    "moisture=1": {
+      "model": "terrainfinita:block/terra_infinita"
+    },
+    "moisture=2": {
+      "model": "terrainfinita:block/terra_infinita"
+    },
+    "moisture=3": {
+      "model": "terrainfinita:block/terra_infinita"
+    },
+    "moisture=4": {
+      "model": "terrainfinita:block/terra_infinita"
+    },
+    "moisture=5": {
+      "model": "terrainfinita:block/terra_infinita"
+    },
+    "moisture=6": {
+      "model": "terrainfinita:block/terra_infinita"
+    },
+    "moisture=7": {
+      "model": "terrainfinita:block/terra_infinita"
+    }
+  }
+}
